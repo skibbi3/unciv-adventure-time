@@ -30,7 +30,7 @@
 		"outerColor": [230,138,182],
 		"innerColor": [247, 240, 246],
 		"uniqueName": "Immortal princess of science",
-		"unique": "[20]% [Science] [Capital]",
+		"unique": ["Gains an extra 20% science in the capital", "[20]% [Science] [Capital]"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
