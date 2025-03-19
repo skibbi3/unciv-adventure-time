@@ -6,15 +6,15 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Bless you, O Immortal Princess of Science!",
-		"startIntroPart2": "Your creation of candy relies on you for their wellbeing!",
+		"startIntroPart1": "Hail, Princess Bubblegum, benevolent ruler of the Candy Kingdom. Under your rule, the Candy people live in harmony and prosperity, the result of your wisdom, kindness, and scientific prowess.",
+		"startIntroPart2": "Princess, all is not well in the land of Ooo. Your people look to you now to protect their peaceful way of life. With the power of Science, can you ensure a path to prosperity and build a civilisation that will stand the test of time?",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Guten tag.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
