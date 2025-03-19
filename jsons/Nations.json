@@ -3,7 +3,6 @@
 		"name": "Candy Kingdom",
 		"leaderName": "Bonnibel Bubblegum",
 		"adjective": ["candy"],
-		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
