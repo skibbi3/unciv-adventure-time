@@ -9,31 +9,28 @@
 		"startIntroPart1": "Hail, Princess Bubblegum, benevolent ruler of the Candy Kingdom. Under your rule, the Candy people live in harmony and prosperity, the result of your wisdom, kindness, and scientific prowess.",
 		"startIntroPart2": "Princess, all is not well in the land of Ooo. Your people look to you now to protect their peaceful way of life. With the power of Science, can you ensure a path to prosperity and build a civilisation that will stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your resistance is mathematically unsound. Surrender now or face the consequences!",
+		"attacked": "Oh, you wanna tussle? Cute.",
+		"defeated": "Ugh! This is highly improbable! Science will correct this... eventually.",
+		"introduction": "As the ruler of the Candy Kingdom, I have far more important matters than dealing with you.",
 		
-		"neutralHello": "Guten tag.",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Salutations, great leader.",
+		"neutralLetsHearIt": ["Proceed.","Let's hear it.","Go on, then."],
+		"neutralNo": ["Absolutely not.","Nope.","That's a hard no from me."],
+		"neutralYes": ["Acceptable.","Sure, why not.","That seems logical."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"hateHello": "Ugh, what now?",
+		"hateLetsHearIt": ["Spit it out.","What now?","Fine, say it."],
+		"hateNo": ["That's ridiculous!","Yeah, no.","Not in a million years."],
+		"hateYes": ["I guess...","Fine, whatever.","Ugh, I suppose."],
+
+		"afterPeace": "Finally. Conflict is such an inefficient use of resources.",
+		"tradeRequest": "Consider this a gift from the most advanced civilization you'll ever encounter.",
 
 		"outerColor": [230,138,182],
 		"innerColor": [247, 240, 246],
 		"uniqueName": "Immortal princess of science",
 		"unique": ["Free Great Person <upon founding a city>"],
-		"cities": ["Candy Castle","Gumball Junction","Rock candy town","Cotton Candy Central","Lollipop Outpost","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Sugaropolis","Caramel Cove","Marshmallow Meadows","Taffy Town","Lollipop Landing","Gumdrop Grove","Cotton Candy Heights","Frostington","Choco City","Nougat Nook","Fudgeburg","Toffee Terrace","Bonbon Bay","Pudding Plaza","Candytropolis","Jellybean Junction","Fizzleville","Gingerbread Glade","Syrup Springs","Peppermint Peaks","Brittleburg","Creamsicle Creek","Sprinkle Street","Truffle Town","Butterscotch Borough","Dulcet Dale","Lemon Drop Lake","Macaron Market","Cherry Tart Terrace","Honeycomb Hollow","Cupcake Crossing","Frosting Falls","Cinnamon Swirl City","Gummy Bear Bay","Sweetroll Square","Meringue Mountains"]
 	}
 ]
