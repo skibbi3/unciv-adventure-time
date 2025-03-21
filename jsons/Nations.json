@@ -29,8 +29,8 @@
 
 		"outerColor": [230,138,182],
 		"innerColor": [247, 240, 246],
-		"uniqueName": "Immortal princess of science",
-		"uniques": ["[+10 Science] per [1] population [in all cities]"],
+		"uniqueName": "Creator of Candy",
+		"uniques": ["[1]% [Science] from every [Food]"],
 		"cities": ["Sugaropolis","Caramel Cove","Marshmallow Meadows","Taffy Town","Lollipop Landing","Gumdrop Grove","Cotton Candy Heights","Frostington","Choco City","Nougat Nook","Fudgeburg","Toffee Terrace","Bonbon Bay","Pudding Plaza","Candytropolis","Jellybean Junction","Fizzleville","Gingerbread Glade","Syrup Springs","Peppermint Peaks","Brittleburg","Creamsicle Creek","Sprinkle Street","Truffle Town","Butterscotch Borough","Dulcet Dale","Lemon Drop Lake","Macaron Market","Cherry Tart Terrace","Honeycomb Hollow","Cupcake Crossing","Frosting Falls","Cinnamon Swirl City","Gummy Bear Bay","Sweetroll Square","Meringue Mountains"]
 	}
 ]
